@@ -1,0 +1,18 @@
+The Goal of the game is to move along the board
+until you reach the 100th space, or landing on the
+ladder located on the 80th space.
+You reach the goal by rolling a 6 sided die.
+You move spaces on the board equal to amount
+indicated on the die. The board moves snake-like,
+meaning that when you reach the end of the board
+you move up a row and move in the other direction.
+If you are in the last row and roll a number that
+will put you higher than the 100th space, you
+will move accordingly until you reach the 100th
+space, then move backwards the rest of the way.
+Landing on a Ladder will benefit you and move you
+up the board, while Chutes make you slide down.
+WARNING: Games can end up being extremely long if
+         you are extremely unlucky.
+Ladders: 1,4,9,21,28,36,51,71,80.
+Chutes:  16,48,49,56,62,64,87,93,95,98.
